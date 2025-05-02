@@ -1,0 +1,7 @@
+tunnel: ghost-tunnel
+credentials-file: /home/giannis/.cloudflared/24118d79-883d-4e25-8f7e-130b228f4a98.json
+
+ingress:
+  - hostname: ghost.freshspot.club
+    service: http://localhost:2368
+  - service: http_status:404 
