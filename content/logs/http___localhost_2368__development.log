@@ -1,0 +1,105 @@
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Ghost is running in development...","time":"2025-05-02T11:15:12.525Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Listening on: 127.0.0.1:2368","time":"2025-05-02T11:15:12.526Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Url configured as: http://localhost:2368/","time":"2025-05-02T11:15:12.528Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Ctrl+C to shut down","time":"2025-05-02T11:15:12.528Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Ghost server started in 0.527s","time":"2025-05-02T11:15:12.530Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":40,"version":"5.118.1","msg":"Database state requires initialisation.","time":"2025-05-02T11:15:12.728Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: newsletters","time":"2025-05-02T11:15:12.997Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: posts","time":"2025-05-02T11:15:13.011Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: posts_meta","time":"2025-05-02T11:15:13.031Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: users","time":"2025-05-02T11:15:13.039Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: posts_authors","time":"2025-05-02T11:15:13.049Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: roles","time":"2025-05-02T11:15:13.054Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: roles_users","time":"2025-05-02T11:15:13.061Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: permissions","time":"2025-05-02T11:15:13.065Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: permissions_users","time":"2025-05-02T11:15:13.073Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: permissions_roles","time":"2025-05-02T11:15:13.077Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: settings","time":"2025-05-02T11:15:13.081Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: tags","time":"2025-05-02T11:15:13.088Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: posts_tags","time":"2025-05-02T11:15:13.096Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: invites","time":"2025-05-02T11:15:13.104Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: brute","time":"2025-05-02T11:15:13.116Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: sessions","time":"2025-05-02T11:15:13.121Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: integrations","time":"2025-05-02T11:15:13.128Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: webhooks","time":"2025-05-02T11:15:13.137Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: api_keys","time":"2025-05-02T11:15:13.141Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: mobiledoc_revisions","time":"2025-05-02T11:15:13.149Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: post_revisions","time":"2025-05-02T11:15:13.156Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members","time":"2025-05-02T11:15:13.164Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: products","time":"2025-05-02T11:15:13.183Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: offers","time":"2025-05-02T11:15:13.190Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: benefits","time":"2025-05-02T11:15:13.207Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: products_benefits","time":"2025-05-02T11:15:13.214Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_products","time":"2025-05-02T11:15:13.218Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: posts_products","time":"2025-05-02T11:15:13.221Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_created_events","time":"2025-05-02T11:15:13.225Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_cancel_events","time":"2025-05-02T11:15:13.232Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_payment_events","time":"2025-05-02T11:15:13.236Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_login_events","time":"2025-05-02T11:15:13.241Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_email_change_events","time":"2025-05-02T11:15:13.245Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_status_events","time":"2025-05-02T11:15:13.249Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_product_events","time":"2025-05-02T11:15:13.253Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_paid_subscription_events","time":"2025-05-02T11:15:13.257Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: labels","time":"2025-05-02T11:15:13.261Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_labels","time":"2025-05-02T11:15:13.269Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_stripe_customers","time":"2025-05-02T11:15:13.273Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: subscriptions","time":"2025-05-02T11:15:13.280Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_stripe_customers_subscriptions","time":"2025-05-02T11:15:13.284Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_subscription_created_events","time":"2025-05-02T11:15:13.296Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: offer_redemptions","time":"2025-05-02T11:15:13.304Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_subscribe_events","time":"2025-05-02T11:15:13.308Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: donation_payment_events","time":"2025-05-02T11:15:13.312Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: stripe_products","time":"2025-05-02T11:15:13.316Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: stripe_prices","time":"2025-05-02T11:15:13.323Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: actions","time":"2025-05-02T11:15:13.330Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: emails","time":"2025-05-02T11:15:13.333Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: email_batches","time":"2025-05-02T11:15:13.344Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: email_recipients","time":"2025-05-02T11:15:13.349Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: email_recipient_failures","time":"2025-05-02T11:15:13.368Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: tokens","time":"2025-05-02T11:15:13.372Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: snippets","time":"2025-05-02T11:15:13.380Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: custom_theme_settings","time":"2025-05-02T11:15:13.387Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_newsletters","time":"2025-05-02T11:15:13.391Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: comments","time":"2025-05-02T11:15:13.398Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: comment_likes","time":"2025-05-02T11:15:13.403Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: comment_reports","time":"2025-05-02T11:15:13.409Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: jobs","time":"2025-05-02T11:15:13.413Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: redirects","time":"2025-05-02T11:15:13.420Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_click_events","time":"2025-05-02T11:15:13.428Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: members_feedback","time":"2025-05-02T11:15:13.432Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: suppressions","time":"2025-05-02T11:15:13.437Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: email_spam_complaint_events","time":"2025-05-02T11:15:13.444Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: mentions","time":"2025-05-02T11:15:13.451Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: milestones","time":"2025-05-02T11:15:13.455Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: temp_mail_events","time":"2025-05-02T11:15:13.459Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: collections","time":"2025-05-02T11:15:13.475Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: collections_posts","time":"2025-05-02T11:15:13.481Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: recommendations","time":"2025-05-02T11:15:13.485Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: recommendation_click_events","time":"2025-05-02T11:15:13.489Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Creating table: recommendation_subscribe_events","time":"2025-05-02T11:15:13.493Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Collection","time":"2025-05-02T11:15:14.166Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Product","time":"2025-05-02T11:15:14.182Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Newsletter","time":"2025-05-02T11:15:14.202Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Tag","time":"2025-05-02T11:15:14.214Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Permission","time":"2025-05-02T11:15:14.223Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Post","time":"2025-05-02T11:15:14.797Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Model: Integration","time":"2025-05-02T11:15:15.304Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Relation: Role to Permission","time":"2025-05-02T11:15:15.449Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Relation: Post to Tag","time":"2025-05-02T11:15:16.166Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Database is in a ready state.","time":"2025-05-02T11:15:16.266Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Ghost database ready in 4.265s","time":"2025-05-02T11:15:16.267Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Invalidating assets for regeneration","time":"2025-05-02T11:15:17.573Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Adding offloaded job to the inline job queue","time":"2025-05-02T11:15:18.170Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Scheduling job mentions-email-report at 52 4 * * * *. Next run on: Fri May 02 2025 15:04:52 GMT+0300 (Eastern European Summer Time)","time":"2025-05-02T11:15:18.184Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Adding one-off job to inlineQueue with current length = 0 called 'members-migrations'","time":"2025-05-02T11:15:18.479Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Stripe not configured - skipping migrations","time":"2025-05-02T11:15:18.495Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"URL Service ready in 1461ms","time":"2025-05-02T11:15:18.497Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Adding offloaded job to the inline job queue","time":"2025-05-02T11:15:18.946Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Scheduling job clean-expired-comped at 5 46 3 * * *. Next run on: Sat May 03 2025 03:46:05 GMT+0300 (Eastern European Summer Time)","time":"2025-05-02T11:15:18.953Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Adding offloaded job to the inline job queue","time":"2025-05-02T11:15:18.962Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Scheduling job clean-tokens at 22 30 2 * * *. Next run on: Sat May 03 2025 02:30:22 GMT+0300 (Eastern European Summer Time)","time":"2025-05-02T11:15:18.968Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Ghost booted in 6.977s","time":"2025-05-02T11:15:18.979Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Adding offloaded job to the inline job queue","time":"2025-05-02T11:15:19.001Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Scheduling job update-check at 33 29 22 * * *. Next run on: Fri May 02 2025 22:29:33 GMT+0300 (Eastern European Summer Time)","time":"2025-05-02T11:15:19.008Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"Running milestone emails job on Fri May 02 2025 14:15:24 GMT+0300 (Eastern European Summer Time)","time":"2025-05-02T11:15:19.030Z","v":0}
+{"name":"Log","hostname":"raspb5","pid":142674,"level":30,"version":"5.118.1","msg":"[Recommendations] Updating recommendations metadata","time":"2025-05-02T11:21:54.890Z","v":0}
